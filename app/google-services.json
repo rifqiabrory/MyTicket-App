@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93211212767",
+    "firebase_url": "https://myticket-7bb77.firebaseio.com",
+    "project_id": "myticket-7bb77",
+    "storage_bucket": "myticket-7bb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93211212767:android:8e71910ee42674fa",
+        "android_client_info": {
+          "package_name": "com.softrack.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93211212767-knf6147u5bf5eesiq1hrghs165v9v1f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softrack.myticket",
+            "certificate_hash": "029a1740c9bfd56b2d98b8785a06bb1f258f2603"
+          }
+        },
+        {
+          "client_id": "93211212767-7jckfu1ubju6d7ip05f44hdl4a0svrft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRUR-qsgwBmyxzBE39AegUnZAF_SoJ9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93211212767-7jckfu1ubju6d7ip05f44hdl4a0svrft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
